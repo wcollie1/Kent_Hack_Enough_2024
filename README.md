@@ -1,1 +1,1 @@
-API Keys will need to be updated for functional program
+Find more info on the project here devpost.com/software/yallo
