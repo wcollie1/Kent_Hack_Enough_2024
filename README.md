@@ -1,1 +1,1 @@
-Find more info on the project here devpost.com/software/yallo
+Find more info on the project here - devpost.com/software/yallo
